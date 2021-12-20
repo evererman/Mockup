@@ -1,0 +1,45 @@
+* {
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+}
+
+.content-wrapper {
+   width: 800px;
+   height: 600px;
+   margin: 100px auto;
+   position: relative;
+   background: url(img/Rectangle\ 1.png) center center;
+   overflow: hidden;
+
+}
+
+img {
+   display: block;
+   position: absolute;
+}
+
+.group-35 {
+   top: 26px;
+   left: 328px;
+}
+
+.group-34 {
+
+   left: 382px;
+}
+
+.group-12 {
+   top: 165px;
+   left: 43px;
+}
+
+.group-36 {
+   top: 479px;
+   left: 380px;
+}
+
+.ellipse-50 {
+   top: 471px;
+   left: 607px;
+}
